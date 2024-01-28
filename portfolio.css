@@ -1,0 +1,39 @@
+nav{
+    font-size: 25px;
+}
+header{
+    background-image: url(FV_flower.jpg);
+} 
+.heading{
+    color: #5C8EDA;
+    font-size: 40px;
+    margin-left: 50px;
+
+}
+.faceicon img{
+    width: 300px;
+    height: 200px;
+}
+
+.subheading{
+    font-size: 30px;
+    margin-left: 70px;
+}    
+p{
+    font-size: 25px;
+    margin-left: 70px;
+}    
+
+input::placeholder {
+    font-size: 25px;
+    
+   }
+
+ .icon img{
+    widh: 70px;
+    height: 70px;
+    
+ }
+ footer{
+    background-image: url(FV_flower.jpg);
+ }
