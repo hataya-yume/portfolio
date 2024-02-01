@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+}
+
+.flex .image{
+    
+    margin: 0;
+    padding: 0;
+}
+
+.flex.image img{
+    width: 20%;
+    height: auto;
+}
+
+.flex .right{
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+
+.flex .text{
+    margin: 10px 0 0;
+    padding: 0;
+}
+
+body{
+    margin: 20px;
+    padding: 0;
+}
